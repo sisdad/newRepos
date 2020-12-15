@@ -1,4 +1,4 @@
-[ '"aa "', '"yanoral_getaye1"']
+'[ "aa ", "yanoral_getaye1"]'
            
 
 
