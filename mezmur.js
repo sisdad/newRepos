@@ -1,5 +1,5 @@
 [ "aa \
- bb", "yanoral_getaye1"]
+bb", "yanoral_getaye1"]
            
 
 
