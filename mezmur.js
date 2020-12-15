@@ -1,5 +1,4 @@
-[ "aa \
-bb", "yanoral_getaye1"]
+{ "a": "aab", "d": "yanoral_getaye1"}
            
 
 
