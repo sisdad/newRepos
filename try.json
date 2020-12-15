@@ -1,4 +1,4 @@
-{"employees":[
+[
     {
       "company": "Twitter",
       "ticker": "TWTR",
@@ -42,4 +42,4 @@
       "timeElapsed": "4"
     }
   ]
-}
+
