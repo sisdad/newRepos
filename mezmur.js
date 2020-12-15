@@ -1,33 +1,7 @@
-{
-            //===================ABEBE TAYE======================
-            mshgun1, yanoral_getaye1, tihitina_libsesh1, meshebgn_allm1, bebeteh_asadgeh1,
-            beaynocheh_mekakel1, beinjera_attamam1, temamgnebeh1, teshenfe1, tamagn_newu1, chernetun1, amen_blesh1,
-            yemitages1,
-            //=========================ASHENAFI=============================
-            mengeden1, bichawun_yehonewun1, tinantinam1, abeban_bemeda1, abetu_gulbete1, ante_kalkewu1,
-            inbayen1, iwnet_newu1, yetewedede_ken1, yetamene_newu1, yalfal_lelitu1, endet_endanorkegn1,
-            hasabhn1, iyesus1, lmxa1,
-         //============================ATADKMEGN TELATE============================
-            amlko_msgana1,smh_newu1,manewu_endante1,kber_bemekdese1,adis_kidan1,yayenewun1,simesh_aredut1,
-            //============================AYKLELBGN MEDANIE============================
-            belielena1,yeEgziabherMenfes1,besemayat_yalefe1,adisSewu1,kefkalutBelay1,ayklelbgn1,gudenYayelgn1 ,yemalnorewun1,
-            besewunaBeEgziabher1,
-            //================================chernet===================================
-            alegn_wdase1,lamesgneh1,sebatu1,lebdrateh1,beferesewu1,selamna_fkrn1,betac_bemdr1,iyesus_yenefs1,yenefse_arnet1,yenigus_lj1,
-             ante_neh1,
-
-            //=======================Dawit Bekele===========================================
-          man_asebe1,slalehegn1,kidus_neh1,befitsum_libe1,bichegnineten1,keto_endemin1,kef_bel1,wede_bete1,
-
-          //=============================================enku silasie===================================
-
-            yemekreze1,ketanashnete1,yemotklet1,yalante_man1,kidus_nehh1,albasxrosen1,matsnagnaye1,amnewalna1,kalemenor1,
-
-          //===================================ezra===================================
-
-          lebahri1,meshto_eskinega1,marakiwu1,mn_lkfelh1,kesm_hule_belay1,belbe_ketema1,besemay_leegziabher1,bebrtat_ale1,bale_dl1,
-          amanuel1,ashenefkugn1,atadkmegn1,ante_satashagrewu1,ayselechegnm1,kehulu_belay_newu1,endatresagn1,egnagn1,kefylal1,
-          zemen_yezema1,znarh1,yetnsaewu_geta1,yhe_ngus1,yekidus_dawit1
+[  "mshgun1", "yanoral_getaye1", "tihitina_libsesh1", "meshebgn_allm1", "bebeteh_asadgeh1","beaynocheh_mekakel1",
+ "beinjera_attamam1", "temamgnebeh1", "teshenfe1", "tamagn_newu1", "chernetun1", "amen_blesh1","yemitages1"
+ ]
+           
 
 
-}
+
