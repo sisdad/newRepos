@@ -1,7 +1,8 @@
-[  "company": "Twitter",
+[  {"company": "Twitter",
       "ticker": "TWTR",
       "stockPrice": "22.76 USD",
       "timeElapsed": "5 sec ago"
+   }
  
   ]
 
