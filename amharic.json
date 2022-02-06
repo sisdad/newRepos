@@ -1,22 +1,22 @@
 { "fikirte_feleke":{
-    "beabatu_yetewedede1":["beabatu yetewedede"],"libe_gn_nektual1":["libe gin nektual"],"iyesus1":["Iyesus"],"astemregn1":["Astemregn"],"smu_yemiamr1":["smu Yemiamr"],"tiyake_yelegnm1":["Tiyake yelegnm"],"egziabher_yadergewal1":["Egziabher Yadergewal"],"lemedan_aydelem1":["Lemedan ayidelem"],"iyesus_tarike1":["Iyesus tarike"],"ke_egziabher_lela1":["ke Egziabher lela"],
+    "beabatu_yetewedede1":["በአባቱ የተወደደ"],"libe_gn_nektual1":["ልቤ ግን ነቅቷል"],"iyesus1":["ኢየሱስ"],"astemregn1":["አስተምረኝ"],"smu_yemiamr1":["ስሙ የሚያምር"],"tiyake_yelegnm1":["ጥያቄ የለኝም"],"egziabher_yadergewal1":["እግዚአብሄር ያደርገዋል"],"lemedan_aydelem1":["ለመዳን አይደለም"],"iyesus_tarike1":["ኢየሱስ ታሪኬ"],"ke_egziabher_lela1":["ከእግዚአብሄር ሌላ"],
     "kibir_letaredewu1":["kibir Letaredewu"],"yihe_hulu_fikir1":["yihe hulu fikir"],"abet_fikir1":["abetfikir"]
 },
-"g_amlak":{"saygebagn":["saygebagn"],"yegebagn":["yegebagn"],"mammene":["mammene"],"kentual":["kentual"],"wede_mamsha":["wede mamsha"],"ene_alaym":["ene alaym"],"rejmu_fetl":["rejmu fetl"],"iyebareke":["iyebareke"],"yeroman":["yeroman"],"yene_mahari":["yene mahari"]
+"g_amlak":{"saygebagn":["ሳይገባኝ"],"yegebagn":["የገባኝ"],"mammene":["ማመኔ"],"kentual":["ቀንቷል"],"wede_mamsha":["ወደ ማምሻዉ"],"ene_alaym":["እኔ አላይም"],"rejmu_fetl":["ረጅሙን ፈትል"],"iyebareke":["እየባረከ"],"yeroman":["የሮማን"],"yene_mahari":["የኔ መሃሪ"]
 
 },
-"g_yohanis":{"yemengede_meri1":["yemengede meri"],"bemsganah1":["bemsganah"],"bewaga1":["bewaga"],"iyesus_lbel1":["iyesus lbel"]
+"g_yohanis":{"yemengede_meri1":["የመንገደ መሪ"],"bemsganah1":["በምስጋና"],"bewaga1":["በዋጋ"],"iyesus_lbel1":["ኢየሱስ ልበል"]
 
 },
-"habitamu_shibiru":{"keyhuda_neged1":["keyhuda neged"],"bante_yemitamen1":["bante yemitamen"],"aimron_yalefe1":["aimron yalefe"],"aykerm1":["aykerm"],"iyesus_kome1":["iyesus kome"],"iyamenku_lmut1":["iyamenku lmut"],"keradyon1":["keradyon"],"yedem_lab1":["yedem lab"],"eyulgn1":["eyulgn"],"wengelh1":["wengelh"],"bwedsh1":["bwedsh"],"hermaye1":["hermaye"],
-    "meskru1":["meskru"],"lene1":["lene"],"liul1":["liul"],"atsnagn1":["atsnagn"],"yeyihuda1":["yeyihuda"],"selam1":["selam"],"betezegawu1":["betezegawu"],"geta_newu1":["geta newu"]
+"habitamu_shibiru":{"keyhuda_neged1":["ከይሁዳ ነገድ"],"bante_yemitamen1":["ባንተ የሚታመን"],"aimron_yalefe1":["አይምሮን ያለፈ"],"aykerm1":["አይቀርም"],"iyesus_kome1":["ኢየሱስ ቆመ"],"iyamenku_lmut1":["እያመንኩ ልሙት"],"keradyon1":["ከራድዮን"],"yedem_lab1":["የደም ላብ"],"eyulgn1":["እዩልኝ የምለዉ"],"wengelh1":["ወንጌልህ"],"bwedsh1":["ብወድሽ"],"hermaye1":["ሄርማዬ ነህ"],
+    "meskru1":["መስክሩ"],"lene1":["ለኔ"],"liul1":["ልኡል"],"atsnagn1":["አጽናኝ"],"yeyihuda1":["የይሁዳ"],"selam1":["ሰላም"],"betezegawu1":["በተዘጋዉ"],"geta_newu1":["ጌታ ነዉ"]
 
 },
 "hawaz_tegegn":{
-    "erkan_tesekleh1":["erkan tesekleh"],"nefse1":["nefse"],"amesegnhalewu1":["amesegnhalewu"],"tenageregn1":["tenageregn"],"ykrta1":["ykrta"],"kehaxiategnoch1":["kehaxiategnoch"],"tsafkegn1":["tsafkegn"],"yelbe_geta1":["yelbe geta"],"lhid_kegeta_gar1":["lhid kegeta gar"],"amen1":["amen"],"kesenpher1":["kesenpher"],"yalelk1":["yalelk"],"yalante1":["yalante"],"mehanaym1":["mehanaym"],
-    "medafah1":["medafah"],"rafidim_neh1":["rafidim neh"],"tetemach_nefse1":["tetemach nefse"],"nefse_getawan1":["nefse getawan"],"iyesus_nayen1":["iyesus nayen"]
+    "erkan_tesekleh1":["እርቃን ተሰቅለህ"],"nefse1":["ነፍሴ"],"amesegnhalewu1":["አመሰግናለሁ"],"tenageregn1":["ተናገረኝ"],"ykrta1":["ይቅርታ"],"kehaxiategnoch1":["ከሃጥያተኞች ዋና"],"tsafkegn1":["ጻፍከኝ"],"yelbe_geta1":["የልቤ ጌታ"],"lhid_kegeta_gar1":["ልሂድ ከጌታ ጋር"],"amen1":["አሜን"],"kesenpher1":["ከሰንፔር በላይ"],"yalelk1":["ያለልክ"],"yalante1":["ያላንተ"],"mehanaym1":["መሃናይም"],
+    "medafah1":["መዳፉ"],"rafidim_neh1":["ራፊዲም ነህ"],"tetemach_nefse1":["ተጠማችህ ነፍሴ"],"nefse_getawan1":["ነፍሴ ጌ"],"iyesus_nayen1":["iyesus nayen"]
 },
-"solomon_abubeker":{"ewnet_yaleh1":["ewnet yaleh"],"zelalem_yemtnor1":["zelalem yemtnor"],"deninete1":["deninete"],"gena_mech1":["gena mech"],"besemayawi_sifra1":["besemayawi sifra"],"eyewededk1":["eyewededk"],"alenlikekahn1":["alenlikekahn"],"yetetewelet1":["yetetewelet1"],"kemenfeseh1":["kemenfeseh"],"keAb_zend1":["keAb zend"],"demenan1":["demenan"],"zm_allm1":["zm allm"],
+"solomon_abubeker":{"ewnet_yaleh1":["እውነት ያለህ"],"zelalem_yemtnor1":["ዘላለም የምትኖር"],"deninete1":["ደንነቴ"],"gena_mech1":["ገና መች ዘመርኩህ"],"besemayawi_sifra1":["በሰማያዊ ስፍራ"],"eyewededk1":["እየወደድክ"],"alenlikekahn1":["alenlikekahn"],"yetetewelet1":["yetetewelet1"],"kemenfeseh1":["kemenfeseh"],"keAb_zend1":["keAb zend"],"demenan1":["demenan"],"zm_allm1":["zm allm"],
     "astawash1":["astawash"],"egziabher_alegn1":["egziabheralegn"],"alawkewum1":["alawkewum"]
 
 },
