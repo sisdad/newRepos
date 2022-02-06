@@ -1,49 +1,51 @@
-{ "fikirte_feleke":{
-    "beabatu_yetewedede1":["beabatu yetewedede"],"libe_gn_nektual1":["libe gin nektual"],"iyesus1":["Iyesus"],"astemregn1":["Astemregn"],"smu_yemiamr1":["smu Yemiamr"],"tiyake_yelegnm1":["Tiyake yelegnm"],"egziabher_yadergewal1":["Egziabher Yadergewal"],"lemedan_aydelem1":["Lemedan ayidelem"],"iyesus_tarike1":["Iyesus tarike"],"ke_egziabher_lela1":["ke Egziabher lela"],
-    "kibir_letaredewu1":["kibir Letaredewu"],"yihe_hulu_fikir1":["yihe hulu fikir"],"abet_fikir1":["abetfikir"]
+{"fikirte_feleke":{
+    "beabatu_yetewedede1":[],"libe_gn_nektual1":[],"iyesus1":[],"astemregn1":[],"smu_yemiamr1":[],"tiyake_yelegnm1":[],"egziabher_yadergewal1":[],"lemedan_aydelem1":[],"iyesus_tarike1":[],"ke_egziabher_lela1":[],
+    "kibir_letaredewu1":[],"yihe_hulu_fikir1":[],"abet_fikir1":[]
 },
-"g_amlak":{"saygebagn":["saygebagn"],"yegebagn":["yegebagn"],"mammene":["mammene"],"kentual":["kentual"],"wede_mamsha":["wede mamsha"],"ene_alaym":["ene alaym"],"rejmu_fetl":["rejmu fetl"],"iyebareke":["iyebareke"],"yeroman":["yeroman"],"yene_mahari":["yene mahari"]
+"g_amlak":{"saygebagn":[],"yegebagn":[],"mammene":[],"kentual":[],"wede_mamsha":[],"ene_alaym":[],"rejmu_fetl":[],"iyebareke":[],"yeroman":[],"yene_mahari":[]
 
 },
-"g_yohanis":{"yemengede_meri1":["yemengede meri"],"bemsganah1":["bemsganah"],"bewaga1":["bewaga"],"iyesus_lbel1":["iyesus lbel"]
+"g_yohanis":{"yemengede_meri1":[],"bemsganah1":[],"bewaga1":[],"iyesus_lbel1":[]
 
 },
-"habitamu_shibiru":{"keyhuda_neged1":["keyhuda neged"],"bante_yemitamen1":["bante yemitamen"],"aimron_yalefe1":["aimron yalefe"],"aykerm1":["aykerm"],"iyesus_kome1":["iyesus kome"],"iyamenku_lmut1":["iyamenku lmut"],"keradyon1":["keradyon"],"yedem_lab1":["yedem lab"],"eyulgn1":["eyulgn"],"wengelh1":["wengelh"],"bwedsh1":["bwedsh"],"hermaye1":["hermaye"],
-    "meskru1":["meskru"],"lene1":["lene"],"liul1":["liul"],"atsnagn1":["atsnagn"],"yeyihuda1":["yeyihuda"],"selam1":["selam"],"betezegawu1":["betezegawu"],"geta_newu1":["geta newu"]
+"habitamu_shibiru":{"keyhuda_neged1":[],"bante_yemitamen1":[],"aimron_yalefe1":[],"aykerm1":[],"iyesus_kome1":[],"iyamenku_lmut1":[],"keradyon1":[],"yedem_lab1":[],"eyulgn1":[],"wengelh1":[],"bwedsh1":[],"hermaye1":[],
+    "meskru1":[],"lene1":[],"liul1":[],"atsnagn1":[],"yeyihuda1":[],"selam1":[],"betezegawu1":[],"geta_newu1":[]
 
 },
 "hawaz_tegegn":{
-    "erkan_tesekleh1":["erkan tesekleh"],"nefse1":["nefse"],"amesegnhalewu1":["amesegnhalewu"],"tenageregn1":["tenageregn"],"ykrta1":["ykrta"],"kehaxiategnoch1":["kehaxiategnoch"],"tsafkegn1":["tsafkegn"],"yelbe_geta1":["yelbe geta"],"lhid_kegeta_gar1":["lhid kegeta gar"],"amen1":["amen"],"kesenpher1":["kesenpher"],"yalelk1":["yalelk"],"yalante1":["yalante"],"mehanaym1":["mehanaym"],
-    "medafah1":["medafah"],"rafidim_neh1":["rafidim neh"],"tetemach_nefse1":["tetemach nefse"],"nefse_getawan1":["nefse getawan"],"iyesus_nayen1":["iyesus nayen"]
+    "erkan_tesekleh1":[],"nefse1":[],"amesegnhalewu1":[],"tenageregn1":[],"ykrta1":[],"kehaxiategnoch1":[],"tsafkegn1":[],"yelbe_geta1":[],"lhid_kegeta_gar1":[],"amen1":[],"kesenpher1":[],"yalelk1":[],"yalante1":[],"mehanaym1":[],
+    "medafah1":[],"rafidim_neh1":[],"tetemach_nefse1":[],"nefse_getawan1":[],"iyesus_nayen1":[]
 },
-"solomon_abubeker":{"ewnet_yaleh1":["ewnet yaleh"],"zelalem_yemtnor1":["zelalem yemtnor"],"deninete1":["deninete"],"gena_mech1":["gena mech"],"besemayawi_sifra1":["besemayawi sifra"],"eyewededk1":["eyewededk"],"alenlikekahn1":["alenlikekahn"],"yetetewelet1":["yetetewelet1"],"kemenfeseh1":["kemenfeseh"],"keAb_zend1":["keAb zend"],"demenan1":["demenan"],"zm_allm1":["zm allm"],
-    "astawash1":["astawash"],"egziabher_alegn1":["egziabheralegn"],"alawkewum1":["alawkewum"]
+"solomon_abubeker":{"ewnet_yaleh1":[],"zelalem_yemtnor1":[],"deninete1":[],"gena_mech1":[],"besemayawi_sifra1":[],"eyewededk1":[],"alenlikekahn1":[],"yetetewelet1":[],"kemenfeseh1":[],"keAb_zend1":[],"demenan1":[],"zm_allm1":[],
+    "astawash1":[],"egziabher_alegn1":[],"alawkewum1":[]
 
 },
-"tewodros":{"moged_simetany1":["moged simetany"],"lemteragn_lante1":["lemteragn lante"],"balewletaye1":["balewletaye"],"tesfa_korten1":["tesfa korten"],"abetu_bakeh1":["abetu bakeh"],"etebegn1":["etebegn"],"kindihn_etef1":["kindihn etef"]
+"tewodros":{"moged_simetany1":[],"lemteragn_lante1":[],"balewletaye1":[],"tesfa_korten1":[],"abetu_bakeh1":[],"etebegn1":[],"kindihn_etef1":[]
 
 },
-"tirehas_GebreEgziabher":{"tamagn_mskr1":["tamagn mskr"],"destegna_negn1":["destegna negn"],"yezelalem1":["yezelalem"],"mndinewu1":["mndinewu"],"wedehuala_allm1":["wedehuala allm"],"amnihalewu1":["amnihalewu"],"ye_abreham1":["ye abreham"],"re_ibraysx1":["be ibraysx"],"yetekefete1":["yetekefete"],"ferahu1":["ferahu1"],"zmbl1":["zmbl"],"megareja1":["megareja"],"lketelh1":["lketelh"],"kante_beker1":["kante beker"],"hlme1":["hlme"]
-},
-"tiztawu_samuel":{"menaye1":["menaye"],"werashu1":["werashu"],"mtkyeleleh1":["mtkyeleleh"],"amanuel1":["amanuel"],"lewededen1":["lewededen"],"lbesemay1":["lbesemay"],"motehal1":["motehal"],"alfaneh1":["alfaneh"],"hulebegeta1":["hulebegeta"],"emarhalewu1":["emarhalewu"],"grumnewu1":["grumnewu"],"merkebe1":["merkebe"],"man_kere1":["man kere"],"man_alen1":["man alen"],"misgana_newu_sraye1":["misgana newu"],"moten_bemotu1":["moten bemotu"],
-    "smesekr_aynen1":["smesekr aynen"], "keranyo1":["keranyo"],"bemanm_yemalkeyrh1":["bemanm yemalkeyrh"],"bemhiret_beykirta1":["bemhiret beykirta"],"and_gize1":["and gize"],"bekeberewu_seregela1":["bekeberewu seregela"],"temesgen_enbel1":["temesgen enbel"],"amlakachn_genana_newu1":["amlakachn genana "],"ante_eko_lene1":["ante eko lene"],"akiya1":["akiya"],"ende_ene_yeredahewu1":["ende ene yeredahewu"],"etsub_dink_newu1":["etsub dink"],
-    "kentu_negn1":["kentu negn"],"kef_kef_largeh1":["kef kef largeh"],"weret_yelewu1":["weret yelewu"], "wuletahen1":["wuletahen"],"yemianoregn_geta_newu1":["yemianoregn geta newu"],"yekesarn1":["yekesarn"],"yetinantina_maninete1":["yetinantinawu"],"yefera_ymesles1":["yefera ymesles"],"yaskeberkegn1":["yaskeberkegn"],"yanten_yanten1":["yanten yanten"]
+"tirehas_GebreEgziabher":{"tamagn_mskr1":[],"destegna_negn1":[],"yezelalem1":[],"mndinewu1":[],"wedehuala_allm1":[],"amnihalewu1":[],"ye_abreham1":[],"re_ibraysx1":[],"yetekefete1":[],"ferahu1":[],"zmbl1":[],"megareja1":[],"lketelh1":[],"kante_beker1":[],"hlme1":[]
 
 },
-"twelveZemaryan":{"liju_yalewu1":["liju yalewu"],"dingl_maryam1":["dingl maryam"],"begna_zend1":["begna zend"],"berisu_zend1":["berisu zend"],"bekristos1":["bekristos"],"ersun_smut1":["ersun smut"],"tsadk_newu1":["tsadk newu"],"fikir_yelelewu1":["fikir yelelewu"],"endnitera1":["endnitera"]
-},
-"endnitera1":{"eyedegefe1":["eyedegefe"],"egziabher1":["egziabher"],"zemen_tesexen1":["zemen tesexen"],"adis_lebsenal1":["adis lebsenal"],"yedasesut1":["yedasesut"],"yegeta_ken1":["yegeta ken"],"ante_bemdr1":["ante bemdr"],"des_ybelen1":["des ybelen"],"debre_tabor1":["debre tabor"],"ethiopia1":["ethiopia"],"tsega_nesayn1":["tsega_nesayn"]
+"tiztawu_samuel":{"menaye1":[],"werashu1":[],"mtkyeleleh1":[],"amanuel1":[],"lewededen1":[],"lbesemay1":[],"motehal1":[],"alfaneh1":[],"hulebegeta1":[],"emarhalewu1":[],"grumnewu1":[],"merkebe1":[],"man_kere1":[],"man_alen1":[],"misgana_newu_sraye1":[],"moten_bemotu1":[],"smesekr_aynen1":[],
+    "keranyo1":[],"bemanm_yemalkeyrh1":[],"bemhiret_beykirta1":[],"and_gize1":[],"bekeberewu_seregela1":[],"temesgen_enbel1":[],"amlakachn_genana_newu1":[],"ante_eko_lene1":[],"akiya1":[],"ende_ene_yeredahewu1":[],"etsub_dink_newu1":[],"kentu_negn1":[],"kef_kef_largeh1":[],"weret_yelewu1":[],
+    "wuletahen1":[],"yemianoregn_geta_newu1":[],"yekesarn1":[],"yetinantina_maninete1":[],"yefera_ymesles1":[],"yaskeberkegn1":[],"yanten_yanten1":[]
 
 },
-"zerfe_kebede":{"layne1":["layne"],"like_kahnat1":["like kahnat"],"menfes_kidus1":["menfes kidus"],"malderaderbet1":["malderaderbet"],"mamesgene1":["mamesgene"],"maranata1":["maranata"],"mardaye_neh1":["mardaye neh"],"ruhama1":["ruhama"],"alelgn_abate1":["alelgn_abate1"],"behisop1":["behisop"],"teketyehalewu1":["teketyehalewu"],"bemot_hager1":["bemot hager"],"bekeberewu1":["bekeberewu"],"egziabhern1":["egziabhern"],"bamaye1":["bamaye"],"barkot1":["barkot"],"tamgnalewu1":["tamgnalewu"],"tnantnam1":["tnantnam"],
-    "alewu_neger1":["alewu neger"],"and_geta1":["and geta"],"alafrbetm1":["alafrbetm"],"asbognal1":["asbognal"],"ere_endante1":["ere endante"],"ines_lamlake1":["ines_lamlake"],"inban_alsefrm1":["inban alsefrm"],"indemwedeh1":["indemwedeh"],"iko_bemn1":["iko bemn"],"zares_leyet_ylal1":["zares leyet"],"yene_nardos1":["yene_nardos"],"yealem_beza1":["yealem beza"],"mamesgene1":["mamesgene"],"yalbastros1":["yalbastros"],"yefikreh1":["yefikreh"],"lezelalem_enji1":["lezelalem enji"]
+"twelveZemaryan":{"liju_yalewu1":[],"dingl_maryam1":[],"begna_zend1":[],"berisu_zend1":[],"bekristos1":[],"ersun_smut1":[],"tsadk_newu1":[],"fikir_yelelewu1":[],"endnitera1":[]
+},
+"endnitera1":{"eyedegefe1":[],"egziabher1":[],"zemen_tesexen1":[],"adis_lebsenal1":[],"yedasesut1":[],"yegeta_ken1":[],"ante_bemdr1":[],"des_ybelen1":[],"debre_tabor1":[],"ethiopia1":[],"tsega_nesayn1":[]
 
 },
-"zemenay_gosaye":{"abatnet1":["abatnet"],"wuletahn1":["wuletahn"],"bemaleda1":["bemaleda"],"kahine1":["kahine"],"endene1":["endene"],"na_yluhal1":["na yluhal"],"yalegn_egziabher1":["yalegn egziabher"],"yanekal1":["yanekal"],"mragn_menfes_kidus1":["mragn menfes_kidus"],"libe_lay1":["libe lay"],"balezina1":["balezina"],"dejen_iyemeta1":["dejen iyemeta"]
+"zerfe_kebede":{"layne1":[],"like_kahnat1":[],"menfes_kidus1":[],"malderaderbet1":[],"mamesgene1":[],"maranata1":[],"mardaye_neh1":[],"ruhama1":[],"alelgn_abate1":[],"behisop1":[],"teketyehalewu1":[],"bemot_hager1":[],"bekeberewu1":[],"egziabhern1":[],"bamaye1":[],"barkot1":[],"tamgnalewu1":[],"tnantnam1":[],
+    "alewu_neger1":[],"and_geta1":[],"alafrbetm1":[],"asbognal1":[],"ere_endante1":[],"ines_lamlake1":[],"inban_alsefrm1":[],"indemwedeh1":[],"iko_bemn1":[],"zares_leyet_ylal1":[],"yene_nardos1":[],"yealem_beza1":[],"mamesgene1":[],"yalbastros1":[],"yefikreh1":[],"lezelalem_enji1":[]
 
-},"mirtinesh_tilahun":{"bemaleda1":["bemaleda"],"besewna_be_egziabher1":["besewna be egziabher"],"barken1":["barken"],"bezelalem_kidan1":["bezelalem kidan"],"iregnaye_neh1":["iregnaye neh"],"ydenkegnal1":["ydenkegnal"],"belbsh1":["belbsh"],"memot_yelem1":["memot yelem"],"tilantinan_kante_gar1":["tilantinan_kante_gar1"],"abetu_lante1":["abetu lante"],"atersata1":["atersata"],"anurognal1":["anurognal"],"egziabher_kegna_gar1":["egziabher kegna gar"],"o_endante1":["o endante"],"zelalem_laynor1":["zelalem laynor"],
-    "seregelawoch1":["seregelawoch"],"hidu_ngeru1":["hidu ngeru"],"sewu_ayresam1":["sewu ayresam"],"sint_gize1":["sint gize"],"rakeb1":["rakeb"],"beamba_feres1":["beamba feres"],"barken_atrefrfeh1":["barken atrefrfeh"],"tabor_abera1":[""],"amen_egziabher1":["amen_egziabher1"],"abetu_lante1":["abetu lante"],"imenu_bersu1":["imenu bersu"],"endet_wexahu1":["endet wexahu"],"egziabher_ymesgen1":["egziabher ymesgen"],"zelalem_laynor1":["zelalem laynor"],"skayhn_sastawsewu1":[""],"irsi_eyekedeme1":["irsi eyekedeme"],
-    "yalante_lene1":["yalante lene"],"yalante_geta1":["yalante geta"]
+},
+"zemenay_gosaye":{"abatnet1":[],"wuletahn1":[],"bemaleda1":[],"kahine1":[],"endene1":[],"na_yluhal1":[],"yalegn_egziabher1":[],"yanekal1":[],"mragn_menfes_kidus1":[],"libe_lay1":[],"balezina1":[],"dejen_iyemeta1":[]
+
+},
+"mirtinesh_tilahun":{"bemaleda1":[],"besewna_be_egziabher1":[],"barken1":[],"bezelalem_kidan1":[],"iregnaye_neh1":[],"ydenkegnal1":[],"belbsh1":[],"memot_yelem1":[],"tilantinan_kante_gar1":[],"abetu_lante1":[],"atersata1":[],"anurognal1":[],"egziabher_kegna_gar1":[],"o_endante1":[],"zelalem_laynor1":[],
+    "seregelawoch1":[],"hidu_ngeru1":[],"sewu_ayresam1":[],"sint_gize1":[],"rakeb1":[],"beamba_feres1":[],"barken_atrefrfeh1":[],"tabor_abera1":[],"amen_egziabher1":[],"abetu_lante1":[],"imenu_bersu1":[],"endet_wexahu1":[],"egziabher_ymesgen1":[],"zelalem_laynor1":[],"skayhn_sastawsewu1":[],"irsi_eyekedeme1":[],
+    "yalante_lene1":[],"yalante_geta1":[]
 
 }, 
     "abebe_taye":{
