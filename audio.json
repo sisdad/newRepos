@@ -1,172 +1,483 @@
 {"fikirte_feleke":{
-    "beabatu_yetewedede1":["11Vmjpf9vAAHDWCL_bbo8qtrNNF_h_e4o"],"libe_gn_nektual1":["1OnUCa-oYLkPXeCUXklFv_new0pXkbvUe"],"iyesus1":["19kFeu9tTswd8jcgUbciPIrXAyOyReHSA"],"astemregn1":["1m0pqWKO5wD-N3LqTD_h_PYzdRr0-wtMD"],"smu_yemiamr1":["1JuCXg3vS9A9zyxzMITgKPx9dnyxuB31U"],"tiyake_yelegnm1":["1HdARaex0BZ7g_u9fflaH7ICsvMrWDGUI"],"egziabher_yadergewal1":["1Dco0Kh3CzvUggG5HKuQQ182re9bQzv5K"],"lemedan_aydelem1":["1u7bKn-bext2O0WPombrfFIqtUFUQQ1gw"],"iyesus_tarike1":["1lZWJk99Try7u00u33D21fvrTk65QSnUw"],
+    "beabatu_yetewedede1":["11Vmjpf9vAAHDWCL_bbo8qtrNNF_h_e4o"],
+    "libe_gn_nektual1":["1OnUCa-oYLkPXeCUXklFv_new0pXkbvUe"],
+    "iyesus1":["19kFeu9tTswd8jcgUbciPIrXAyOyReHSA"],
+    "astemregn1":["1m0pqWKO5wD-N3LqTD_h_PYzdRr0-wtMD"],
+    "smu_yemiamr1":["1JuCXg3vS9A9zyxzMITgKPx9dnyxuB31U"],
+    "tiyake_yelegnm1":["1HdARaex0BZ7g_u9fflaH7ICsvMrWDGUI"],
+    "egziabher_yadergewal1":["1Dco0Kh3CzvUggG5HKuQQ182re9bQzv5K"],
+    "lemedan_aydelem1":["1u7bKn-bext2O0WPombrfFIqtUFUQQ1gw"],
+    "iyesus_tarike1":["1lZWJk99Try7u00u33D21fvrTk65QSnUw"],
+    
     "ke_egziabher_lela1":["1uslXYlirGw9uCYuILDmnqwxEnHWu8AtU"],
-    "kibir_letaredewu1":[],"yihe_hulu_fikir1":["1BGN8A71ppr6xZEHZN91761Yb2n7xQb6x"],"abet_fikir1":[]
+    
+    "kibir_letaredewu1":[],
+    "yihe_hulu_fikir1":["1BGN8A71ppr6xZEHZN91761Yb2n7xQb6x"],
+    "abet_fikir1":[]
 },
-"g_amlak":{"saygebagn":[],"yegebagn":[],"mammene":[],"kentual":[],"wede_mamsha":[],"ene_alaym":[],"rejmu_fetl":[],"iyebareke":[],"yeroman":[],"yene_mahari":[]
+"g_amlak":{"saygebagn":[],
+    "yegebagn":[],
+    "mammene":[],
+    "kentual":[],
+    "wede_mamsha":[],
+    "ene_alaym":[],
+    "rejmu_fetl":[],
+    "iyebareke":[],
+    "yeroman":[],
+    "yene_mahari":[]
 
 },
-"g_yohanis":{"yemengede_meri1":[],"bemsganah1":[],"bewaga1":[],"iyesus_lbel1":[]
+"g_yohanis":{"yemengede_meri1":[],
+    "bemsganah1":[],
+    "bewaga1":[],
+    "iyesus_lbel1":[]
 
 },
-"habitamu_shibiru":{"keyhuda_neged1":[],"bante_yemitamen1":[],"aimron_yalefe1":[],"aykerm1":[],"iyesus_kome1":[],"iyamenku_lmut1":[],"keradyon1":[],"yedem_lab1":[],"eyulgn1":[],"wengelh1":[],"bwedsh1":[],"hermaye1":[],
-    "meskru1":[],"lene1":[],"liul1":[],"atsnagn1":[],"yeyihuda1":[],"selam1":[],"betezegawu1":[],"geta_newu1":[]
+"habitamu_shibiru":{"keyhuda_neged1":["1avTh-F9TCVBR9e-E6LCoeRA6eH0GEPYr"],
+    "bante_yemitamen1":[],
+    "aimron_yalefe1":[],
+    "aykerm1":[],
+    "iyesus_kome1":[],
+    "iyamenku_lmut1":[],
+    "keradyon1":[],
+    "yedem_lab1":[],
+    "eyulgn1":["1F7ltVScloxzbU4peZ5WS7E6OtlLHEd-C"],
+    "wengelh1":["1nAQrB-4qTCo7Zqm6DXUitDgFKz-AhRbZ"],
+    "bwedsh1":[],
+    "hermaye1":["1LWLXNKVKjtr0e-X0NviYY8RAEITrNJat"],
+    "meskru1":["12xDyENcRCn1UEnj8pO1kYGSMeeriKmU7"],
+    "lene1":["1o2L_cSxtHIwnfyKvkyBWzo_7v7bTJePG"],
+    "liul1":["1rvnp6sQCNNUg8GqUHfYTQ8opzICLVXx7"],
+    "atsnagn1":["1-acQa9aWRhWlz7cApf6VBHp2ZiE6FJoK"],
+    "yeyihuda1":["0OdxfsEEIZ7vbdhUxutDNTr1fs0Hgn-T"],
+    "selam1":["1VgbUjgDa-yUuEyUvfs3UGY621Lskzpb1"],
+    "betezegawu1":["1_xwLYuvciLoQ1gXcHkR0iGA6WXJAy0SA"],
+    "geta_newu1":["1rt-2TVNlzr6krCrowpGe6gPObMYQoItN"]
 
 },
 "hawaz_tegegn":{
-    "erkan_tesekleh1":[],"nefse1":[],"amesegnhalewu1":["1oNidrS9ET1pWapZZiwitPEIdEctS1BKi"],"tenageregn1":["1V-EDNHRMDOKnloyI4kxo1owW5jhCu81o"],"ykrta1":["1dcXWvwk7pndBZxDl3kXRiTkou4KMpKe3"],"kehaxiategnoch1":[],"tsafkegn1":["1xtOVUxjjRpm502E0ihvXZCflpRZOyE3Y"],"yelbe_geta1":[],"lhid_kegeta_gar1":[],"amen1":[],"kesenpher1":[],"yalelk1":[],"yalante1":[],"mehanaym1":[],
-    "medafah1":[],"rafidim_neh1":[],"tetemach_nefse1":[],"nefse_getawan1":[],"iyesus_nayen1":[]
+    "erkan_tesekleh1":[],
+    "nefse1":[],
+    "amesegnhalewu1":["1oNidrS9ET1pWapZZiwitPEIdEctS1BKi"],
+    "tenageregn1":["1V-EDNHRMDOKnloyI4kxo1owW5jhCu81o"],
+    "ykrta1":["1dcXWvwk7pndBZxDl3kXRiTkou4KMpKe3"],
+    "kehaxiategnoch1":[],
+    "tsafkegn1":["1xtOVUxjjRpm502E0ihvXZCflpRZOyE3Y"],
+    "yelbe_geta1":["10ssVxEZi4-5bTT4armadFSd7UyZih7dL"],
+    "lhid_kegeta_gar1":["10E15VNaySHHpGdJqiokzJKrtJGEgblAf"],
+    "amen1":["1YDx1r-jC4yZADWRLuHA6J9v-5vLYtmgo"],
+    "kesenpher1":["1wJb5Nngb9kHWLUfm5CCQ0Dhdib8dGGpj"],
+    "yalelk1":["1-ETkjZtntspLyjwNTkUwsiBEyL5nWUEx"],
+    "yalante1":["1fRFQ1a8vNGVP3vaUunb4gFbUjnuoXhNB"],
+    "mehanaym1":["1FUoGyUSdrVjFRYe5F-TtNmC5GPh8ZUR5"],
+    "medafah1":[],
+    "rafidim_neh1":["1bXpdWSBIilaAK085VSOLhSuNKE1CYN4b"],
+    "tetemach_nefse1":[],
+    "nefse_getawan1":[],
+    "iyesus_nayen1":[]
 },
-"solomon_abubeker":{"ewnet_yaleh1":["1wkOnZclKD3z8glSmrb4qvLye86I5wIL6"],"zelalem_yemtnor1":["1DpPMNlvGzjf0XVKrLes8RXplzCvjHdis"],"deninete1":["1w5GG4b16fbHZV0s6GJtS000Zv7M4cO0T"],"gena_mech1":["1ce_2eQ6A6iVOM-CbUxGOukJmi4PJgV65"],"besemayawi_sifra1":["1n0cswJZnZ4rE55lWg4IXt2SyUHoIdcqG"],"eyewededk1":["1XBogI0uEX9TIesqi-tKuGXFg1gge-Q2K"],"alenlikekahn1":["1eo4PmFPVvwhA8pUPguBpejYd4a54VTx_"],"yetetewelet1":[],"kemenfeseh1":["16kiS51X_n4_o8DKtns0wNhuZ3zq0C1w9"],"keAb_zend1":["1rWCDUhXVb-wwbEDv_xCwGNZH-LZ5Xz5G"],"demenan1":["1NQzuex3hupHq9N5hqWK2IXhFaTB0hM8j"],"zm_allm1":["125tutJMhb6rw-xqryysWW-rBsEaAXpvo"],
-    "astawash1":["1xpEO9eTyee2zopyn7o2SWyK2SxrxlvH5"],"egziabher_alegn1":["195DMOHDCC9TOTqT6m-J38JeR8a-Qh1jh"],"alawkewum1":["1iMEriCLPgVtj7aYkum95kn1WFe-Ocs_n"]
+"solomon_abubeker":{"ewnet_yaleh1":["1wkOnZclKD3z8glSmrb4qvLye86I5wIL6"],
+    "zelalem_yemtnor1":["1DpPMNlvGzjf0XVKrLes8RXplzCvjHdis"],
+    "deninete1":["1w5GG4b16fbHZV0s6GJtS000Zv7M4cO0T"],
+    "gena_mech1":["1ce_2eQ6A6iVOM-CbUxGOukJmi4PJgV65"],
+    "besemayawi_sifra1":["1n0cswJZnZ4rE55lWg4IXt2SyUHoIdcqG"],
+    "eyewededk1":["1XBogI0uEX9TIesqi-tKuGXFg1gge-Q2K"],
+    "alenlikekahn1":["1eo4PmFPVvwhA8pUPguBpejYd4a54VTx_"],
+    "yetetewelet1":[],
+    "kemenfeseh1":["16kiS51X_n4_o8DKtns0wNhuZ3zq0C1w9"],
+    "keAb_zend1":["1rWCDUhXVb-wwbEDv_xCwGNZH-LZ5Xz5G"],
+    "demenan1":["1NQzuex3hupHq9N5hqWK2IXhFaTB0hM8j"],
+    "zm_allm1":["125tutJMhb6rw-xqryysWW-rBsEaAXpvo"],
+    
+    "astawash1":["1xpEO9eTyee2zopyn7o2SWyK2SxrxlvH5"],
+    "egziabher_alegn1":["195DMOHDCC9TOTqT6m-J38JeR8a-Qh1jh"],
+    "alawkewum1":["1iMEriCLPgVtj7aYkum95kn1WFe-Ocs_n"]
 
 },
-"tewodros":{"moged_simetany1":[],"lemteragn_lante1":[],"balewletaye1":[],"tesfa_korten1":[],"abetu_bakeh1":[],"etebegn1":[],"kindihn_etef1":[]
+"tewodros":{"moged_simetany1":[],
+    "lemteragn_lante1":[],
+    "balewletaye1":[],
+    "tesfa_korten1":[],
+    "abetu_bakeh1":[],
+    "etebegn1":[],
+    "kindihn_etef1":[]
 
 },
-"tirehas_GebreEgziabher":{"tamagn_mskr1":[],"destegna_negn1":[],"yezelalem1":[],"mndinewu1":[],"wedehuala_allm1":[],"amnihalewu1":[],"ye_abreham1":[],"re_ibraysx1":[],"yetekefete1":[],"ferahu1":[],"zmbl1":[],"megareja1":[],"lketelh1":[],"kante_beker1":[],"hlme1":[]
+"tirehas_GebreEgziabher":{"tamagn_mskr1":[],
+    "destegna_negn1":[],
+    "yezelalem1":[],
+    "mndinewu1":[],
+    "wedehuala_allm1":[],
+    "amnihalewu1":[],
+    "ye_abreham1":[],
+    "re_ibraysx1":[],
+    "yetekefete1":[],
+    "ferahu1":[],
+    "zmbl1":[],
+    "megareja1":[],
+    "lketelh1":[],
+    "kante_beker1":[],
+    "hlme1":[]
 
 },
-"tiztawu_samuel":{"menaye1":[],"werashu1":[],"mtkyeleleh1":[],"amanuel1":[],"lewededen1":[],"lbesemay1":[],"motehal1":[],"alfaneh1":[],"hulebegeta1":[],"emarhalewu1":[],"grumnewu1":[],"merkebe1":[],"man_kere1":[],"man_alen1":[],"misgana_newu_sraye1":[],"moten_bemotu1":[],"smesekr_aynen1":[],
-    "keranyo1":[],"bemanm_yemalkeyrh1":[],"bemhiret_beykirta1":[],"and_gize1":[],"bekeberewu_seregela1":[],"temesgen_enbel1":[],"amlakachn_genana_newu1":[],"ante_eko_lene1":[],"akiya1":[],"ende_ene_yeredahewu1":[],"etsub_dink_newu1":[],"kentu_negn1":[],"kef_kef_largeh1":[],"weret_yelewu1":[],
-    "wuletahen1":[],"yemianoregn_geta_newu1":[],"yekesarn1":[],"yetinantina_maninete1":[],"yefera_ymesles1":[],"yaskeberkegn1":[],"yanten_yanten1":[]
+"tiztawu_samuel":{"menaye1":[],
+    "werashu1":[],
+    "mtkyeleleh1":[],
+    "amanuel1":[],
+    "lewededen1":[],
+    "lbesemay1":[],
+    "motehal1":[],
+    "alfaneh1":[],
+    "hulebegeta1":[],
+    "emarhalewu1":[],
+    "grumnewu1":[],
+    "merkebe1":[],
+    "man_kere1":[],
+    "man_alen1":[],
+    "misgana_newu_sraye1":[],
+    "moten_bemotu1":[],
+    "smesekr_aynen1":[],
+    
+    "keranyo1":[],
+    "bemanm_yemalkeyrh1":[],
+    "bemhiret_beykirta1":[],
+    "and_gize1":[],
+    "bekeberewu_seregela1":[],
+    "temesgen_enbel1":[],
+    "amlakachn_genana_newu1":[],
+    "ante_eko_lene1":[],
+    "akiya1":[],
+    "ende_ene_yeredahewu1":[],
+    "etsub_dink_newu1":[],
+    "kentu_negn1":[],
+    "kef_kef_largeh1":[],
+    "weret_yelewu1":[],
+    
+    "wuletahen1":[],
+    "yemianoregn_geta_newu1":[],
+    "yekesarn1":[],
+    "yetinantina_maninete1":[],
+    "yefera_ymesles1":[],
+    "yaskeberkegn1":[],
+    "yanten_yanten1":[]
 
 },
-"twelveZemaryan":{"liju_yalewu1":[],"dingl_maryam1":[],"begna_zend1":[],"berisu_zend1":[],"bekristos1":[],"ersun_smut1":[],"tsadk_newu1":[],"fikir_yelelewu1":[],"endnitera1":[]
+"twelveZemaryan":{"liju_yalewu1":["1hVBjIFzforKv4RMzhHW26Lr5E7UODo8w"],
+    "dingl_maryam1":["1zQUlQ51JWnYVcuV-F6o65j-CYed2xAv9"],
+    "begna_zend1":["1BtkQ_TpxU_kkvUVcG92khA7ngE5Hr34h"],
+    "berisu_zend1":[],
+    "bekristos1":["1GAcBhsLoasjADFt29ZdFz7OGBXDZwJg2"],
+    "ersun_smut1":["1Vv_nNa7NmPfA7bCZeUt6l8n730F6jRwj"],
+    "tsadk_newu1":[],
+    "fikir_yelelewu1":["1-xNvhdrxCJrLd24cK9CIpTDk-wCB-wJy"],
+    "endnitera1":["190T8R-4kvwTHUI1wufrAlj5zMh9KRjHh"]
 },
-"zemen_teseten":{"eyedegefe1":[],"egziabher1":[],"zemen_tesexen1":[],"adis_lebsenal1":[],"yedasesut1":[],"yegeta_ken1":[],"ante_bemdr1":[],"des_ybelen1":[],"debre_tabor1":[],"ethiopia1":[],"tsega_nesayn1":[]
+"zemen_teseten":{"eyedegefe1":[],
+    "egziabher1":[],
+    "zemen_tesexen1":[],
+    "adis_lebsenal1":[],
+    "yedasesut1":[],
+    "yegeta_ken1":[],
+    "ante_bemdr1":[],
+    "des_ybelen1":[],
+    "debre_tabor1":[],
+    "ethiopia1":[],
+    "tsega_nesayn1":[]
 
 },
-"zerfe_kebede":{"layne1":[],"like_kahnat1":["1CcyIQqOHMOUEhER3S8k1JxS8HNG6_NjM"],"menfes_kidus1":["1uQ-mh7MrxcfzRQBZUZe7e4xN-_eBx08s"],"malderaderbet1":[],"mamesgene1":[],"maranata1":[],"mardaye_neh1":["1BHRMgRsRTxW9q7mzl3E_vZT8uEKU4dQI"],"ruhama1":[],"alelgn_abate1":[],"behisop1":[],"teketyehalewu1":[],"bemot_hager1":["1SucVD0iClJ3t3Qt_Qnt6zbZmOOWzbuAP"],"bekeberewu1":[],"egziabhern1":["1lKLwzmOPmDG7yiyEbYcQCkWPkbgcC2Ma"],"bamaye1":["1tmxbIDZVAiosGQ9fHkBVRTIFRe9PKvEt"],"barkot1":["1XVyB-AlYjasB87K-noheOR5GHYFHwezA"],"tamgnalewu1":[],"tnantnam1":[],
-    "alewu_neger1":[],"and_geta1":["1_J-bWMu0IT3piEgzFkKlF0xVyfT_SFM2"],"alafrbetm1":["1eNNZd9ozhORBYGOWRPzZikYHY6u8ipjV"],"asbognal1":[],"ere_endante1":["1xOWo0q2x9GLahNF0qbkiQxtlSP4i__R5"],"ines_lamlake1":["1DEhDWP3WvTfm0dly_ZDARz3oV1M2lcuF"],"inban_alsefrm1":[],"indemwedeh1":[],"iko_bemn1":["1NfHp4NepHK-Q5bUzTbledQbji6NV8ykm"],"zares_leyet_ylal1":[],"yene_nardos1":[],"yealem_beza1":["1msXXELHzpC9JoXRk3yYPqjpfLOiHiyRk"],"mamesgene1":[],"yalbastros1":["1YKKN2NHLJv1QH5tE2yX6TQSdvYwGEGdZ"],"yefikreh1":[],"lezelalem_enji1":[]
+"zerfe_kebede":{"layne1":[],
+    "like_kahnat1":["1CcyIQqOHMOUEhER3S8k1JxS8HNG6_NjM"],
+    "menfes_kidus1":["1uQ-mh7MrxcfzRQBZUZe7e4xN-_eBx08s"],
+    "malderaderbet1":[],
+    "mamesgene1":[],
+    "maranata1":[],
+    "mardaye_neh1":["1BHRMgRsRTxW9q7mzl3E_vZT8uEKU4dQI"],
+    "ruhama1":[],
+    "alelgn_abate1":[],
+    "behisop1":[],
+    "teketyehalewu1":[],
+    "bemot_hager1":["1SucVD0iClJ3t3Qt_Qnt6zbZmOOWzbuAP"],
+    "bekeberewu1":[],
+    "egziabhern1":["1lKLwzmOPmDG7yiyEbYcQCkWPkbgcC2Ma"],
+    "bamaye1":["1tmxbIDZVAiosGQ9fHkBVRTIFRe9PKvEt"],
+    "barkot1":["1XVyB-AlYjasB87K-noheOR5GHYFHwezA"],
+    "tamgnalewu1":[],
+    "tnantnam1":[],
+    
+    "alewu_neger1":[],
+    "and_geta1":["1_J-bWMu0IT3piEgzFkKlF0xVyfT_SFM2"],
+    "alafrbetm1":["1eNNZd9ozhORBYGOWRPzZikYHY6u8ipjV"],
+    "asbognal1":[],
+    "ere_endante1":["1xOWo0q2x9GLahNF0qbkiQxtlSP4i__R5"],
+    "ines_lamlake1":["1DEhDWP3WvTfm0dly_ZDARz3oV1M2lcuF"],
+    "inban_alsefrm1":[],
+    "indemwedeh1":[],
+    "iko_bemn1":["1NfHp4NepHK-Q5bUzTbledQbji6NV8ykm"],
+    "zares_leyet_ylal1":[],
+    "yene_nardos1":[],
+    "yealem_beza1":["1msXXELHzpC9JoXRk3yYPqjpfLOiHiyRk"],
+    "mamesgene1":[],
+    "yalbastros1":["1YKKN2NHLJv1QH5tE2yX6TQSdvYwGEGdZ"],
+    "yefikreh1":[],
+    "lezelalem_enji1":[]
 
 },
-"zemenay_gosaye":{"abatnet1":["1DCNfWMO_AaaW_IVYSuC3iS4rtjFZkuQc"],"wuletahn1":["1fTS6ROWOlWRHNIbi090I2vB1slV5BxfD"],"bemaleda1":["1uyQzBUCEV1rlvqa63mDlEr30Kik39LYM"],"kahine1":["1AaaZA2GjpGFp5ZrpBg9cFPyPAtmVUcgg"],"endene1":["1iN2PCNlc1NH5x3QxbP7xJ5uMO8ncbtSg"],"na_yluhal1":["1deeQ2TVLEwv5jc9Mbvr-xuDJtcUhfYlM"],"yalegn_egziabher1":["1UufEqNleIJ9z8xVXKeWC1fH3U5N7gNl-"],"yanekal1":["1dBSJF1Rb43omnQ9L-Ni7C7jD8uM1kEUC"],"mragn_menfes_kidus1":["1GeYLwGXcM5nPNn1cVV_j5RW0SDPVjcGT"],"libe_lay1":["166mlEg6tbP6uqjA7k2VYIQsbOT_LHttI"],"balezina1":["1A7rO3aQk0MPTO9XCKE_XYZFLq113SRbK"],"dejen_iyemeta1":["1AabLALd-mqCcZfD3YfB2vTh9CtDaxLqd"]
+"zemenay_gosaye":{"abatnet1":["1DCNfWMO_AaaW_IVYSuC3iS4rtjFZkuQc"],
+    "wuletahn1":["1fTS6ROWOlWRHNIbi090I2vB1slV5BxfD"],
+    "bemaleda1":["1uyQzBUCEV1rlvqa63mDlEr30Kik39LYM"],
+    "kahine1":["1AaaZA2GjpGFp5ZrpBg9cFPyPAtmVUcgg"],
+    "endene1":["1iN2PCNlc1NH5x3QxbP7xJ5uMO8ncbtSg"],
+    "na_yluhal1":["1deeQ2TVLEwv5jc9Mbvr-xuDJtcUhfYlM"],
+    "yalegn_egziabher1":["1UufEqNleIJ9z8xVXKeWC1fH3U5N7gNl-"],
+    "yanekal1":["1dBSJF1Rb43omnQ9L-Ni7C7jD8uM1kEUC"],
+    "mragn_menfes_kidus1":["1GeYLwGXcM5nPNn1cVV_j5RW0SDPVjcGT"],
+    "libe_lay1":["166mlEg6tbP6uqjA7k2VYIQsbOT_LHttI"],
+    "balezina1":["1A7rO3aQk0MPTO9XCKE_XYZFLq113SRbK"],
+    "dejen_iyemeta1":["1AabLALd-mqCcZfD3YfB2vTh9CtDaxLqd"]
 
 },
-"mirtinesh_tilahun":{"bemaleda1":["1Nc5kkOIP5yH7et4a1VIEjRlScmtzFk8s"],"besewna_be_egziabher1":[],"barken1":["10Z7AaDSDT2sbtvRljzkvyz4abbTiRrt9"],"bezelalem_kidan1":["1cMOHbuYn63Hi1oMmJw36ObwS9KNGp3D0"],"iregnaye_neh1":["1ybeyfk_wOolxE7SXYG78ci6nShvlVNJZ"],"ydenkegnal1":[],"belbsh1":[],"memot_yelem1":[],"tilantinan_kante_gar1":[],"abetu_lante1":[],"atersata1":[],"anurognal1":[],"egziabher_kegna_gar1":[],"o_endante1":[],"zelalem_laynor1":[],
-    "seregelawoch1":[],"hidu_ngeru1":[],"sewu_ayresam1":[],"sint_gize1":[],"rakeb1":[],"beamba_feres1":[],"barken_atrefrfeh1":[],"tabor_abera1":[],"amen_egziabher1":[],"abetu_lante1":[],"imenu_bersu1":[],"endet_wexahu1":[],"egziabher_ymesgen1":[],"zelalem_laynor1":[],"skayhn_sastawsewu1":[],"irsi_eyekedeme1":[],
-    "yalante_lene1":[],"yalante_geta1":[]
+"mirtinesh_tilahun":{"bemaleda1":["1Nc5kkOIP5yH7et4a1VIEjRlScmtzFk8s"],
+    "besewna_be_egziabher1":[],
+    "barken1":["10Z7AaDSDT2sbtvRljzkvyz4abbTiRrt9"],
+    "bezelalem_kidan1":["1cMOHbuYn63Hi1oMmJw36ObwS9KNGp3D0"],
+    "iregnaye_neh1":["1ybeyfk_wOolxE7SXYG78ci6nShvlVNJZ"],
+    "ydenkegnal1":[],
+    "belbsh1":[],
+    "memot_yelem1":[],
+    "tilantinan_kante_gar1":[],
+    "abetu_lante1":[],
+    "atersata1":[],
+    "anurognal1":[],
+    "egziabher_kegna_gar1":[],
+    "o_endante1":[],
+    "zelalem_laynor1":[],
+    
+    "seregelawoch1":[],
+    "hidu_ngeru1":[],
+    "sewu_ayresam1":[],
+    "sint_gize1":[],
+    "rakeb1":[],
+    "beamba_feres1":[],
+    "barken_atrefrfeh1":[],
+    "tabor_abera1":[],
+    "amen_egziabher1":[],
+    "abetu_lante1":[],
+    "imenu_bersu1":[],
+    "endet_wexahu1":[],
+    "egziabher_ymesgen1":[],
+    "zelalem_laynor1":[],
+    "skayhn_sastawsewu1":[],
+    "irsi_eyekedeme1":[],
+    
+    "yalante_lene1":[],
+    "yalante_geta1":[]
 
 }, 
     "abebe_taye":{
            "mshgun1":["1Dh0oIAP7WF0sAL6NH3WtjYOAkavjz9Ve"],
+           
            "yanoral_getaye1":[],
+           
            "tihitina_libsesh1":["1DEhDWP3WvTfm0dly_ZDARz3oV1M2lcuF"],
+           
            "meshebgn_allm1":[],
+           
            "bebeteh_asadgeh1":["1Nc5kkOIP5yH7et4a1VIEjRlScmtzFk8s"],
+           
            "beaynocheh_mekakel1":["1MtvTBuZ2JZPxhoc617DieJDRVgfCnVMM"],
+           
            "beinjera_attamam1":[],
+           
            "temamgnebeh1":[],
+           
            "teshenfe1":[],
+           
            "tamagn_newu1":["1nORxqSW2lPMV1w2Jladyi6Db-s7gDuL4"],
+           
            "chernetun1":["1HWIXTtT9nPQy9fjkg6S1FdefipryK73z"],
+           
            "amen_blesh1":[],
+           
            "yemitages1":[]
 
           },
        
       "ashenafi_gmariam":{
            "mengeden1":["1dcXWvwk7pndBZxDl3kXRiTkou4KMpKe3"],
+           
            "bichawun_yehonewun1":[],
+           
            "tinantinam1":[],
+           
            "abeban_bemeda1":[],
+           
            "abetu_gulbete1":[],
+           
            "ante_kalkewu1":[],
+           
            "inbayen1":[],
+           
            "iwnet_newu1":[],
+           
            "yetewedede_ken1":[],
+           
            "yetamene_newu1":[],
+           
            "yalfal_lelitu1":[],
+           
            "endet_endanorkegn1":[],
+           
            "iyesus1":[],
+           
            "lmxa1":[],
+           
            "hasabhn1":[]
 
           },
      "atadkmegn_telate":{
          
            "amlko_msgana1":["1F6oO5Lm-6NEIuvJvaoVBKY68Fp4pulMK"],
-           "smh_newu1":[],
-           "manewu_endante1":[],
-           "kber_bemekdese1":[],
-           "adis_kidan1":[],
+           
+           "smh_newu1":["1DWuwMjSq4Cz3P19B3NDzHiTYB6tcloTx"],
+           
+           "manewu_endante1":["1KmiLO-P_ynRDgoIaXTXrH11736ifgJrt"],
+           
+           "kber_bemekdese1":["1WC2yaoQseXyE1C8Bo3otyoxF_8aIENdj"],
+           
+           "adis_kidan1":["1B0l8K6_bbZLDXt5zyr__acfZV2Eanr_9"],
+           
            "yayenewun1":[],
-           "simesh_aredut1":[]
+           
+           "simesh_aredut1":["1f-EMXRlZfvLkbwCASkeFQEqzfyDJSKAK"]
 
           },
        
      "ayiklelbgn_medanie":{
          "belielena1":["1IhHUInqo46Xey8uqPhzj6iXslgdaJDpW"],
+         
          "yeEgziabherMenfes1":[],
+         
          "besemayat_yalefe1":[],
+         
          "adisSewu1":[],
+         
          "kefkalutBelay1":["13kLjOAoFI_lqONqguSOTpiwmgRk65qBB"],
+         
          "ayklelbgn1":[],
+         
          "gudenYayelgn1":[],
+         
          "besewunaBeEgziabher1":[],
+         
          "yemalnorewun1":[]
       },
        
        
      "chernet_senay":{
          "alegn_wdase1":["1BGN8A71ppr6xZEHZN91761Yb2n7xQb6x"],
+         
          "lamesgneh1":[],
+         
          "sebatu1":[],
+         
          "lebdrateh1":[],
+         
          "beferesewu1":[],
+         
          "selamna_fkrn1":[],
+         
          "betac_bemdr1":[],
+         
          "iyesus_yenefs1":[],
+         
          "yenefse_arnet1":[],
+         
          "yenigus_lj1":[],
+         
          "ante_neh1":[]
          },
      "dawit_bekele":{
          "man_asebe1":["11Vmjpf9vAAHDWCL_bbo8qtrNNF_h_e4o"],
+         
          "slalehegn1":[],
+         
          "kidus_neh1":[],
+         
          "befitsum_libe1":[],
+         
          "bichegnineten1":[],
+         
          "keto_endemin1":[],
+         
          "kef_bel1":[],
+         
          "wede_bete1":[]
     },
        
      "enkusilasie":{
          "yemekreze1":["1dcXWvwk7pndBZxDl3kXRiTkou4KMpKe3"],
+         
          "ketanashnete1":["1xtOVUxjjRpm502E0ihvXZCflpRZOyE3Y"],
+         
          "yemotklet1":[],
+         
          "yalante_man1":[],
+         
          "kidus_nehh1":[],
+         
          "albasxrosen1":[],
+         
          "matsnagnaye1":[],
+         
          "amnewalna1":[],
+         
          "kalemenor1":[]
       },
      "ezra_hmikael":{  
-        "lebahri1":["1w_iRdMwvnukG8kAT9qD7HK9jr56lPCl3"],
+        "lebahri1":["1-szFyBLfjubvd9lTby7wlTlwQJuVhSMd"],
+        
         "meshto_eskinega1":["1RKCgOJtibyiErhEJfiLUfr_LQraUChT9"],
+        
         "marakiwu1":[],
+        
         "mn_lkfelh1":[],
+        
         "kesm_hule_belay1":[],
+        
         "belbe_ketema1":[],
+        
         "besemay_leegziabher1":[],
+        
         "bebrtat_ale1":[],
-        "bale_dl1":[],
+        
+        "bale_dl1":["1iTPa5mw8DAx_g8g0DPck5t8qgXZemaxV"],
+        
         "amanuel1":[],
+        
         "ashenefkugn1":["1flmrHPEUstGfCgn4pQRySXpKH6V2d7Ep"],
+        
         "atadkmegn1":[],
+        
         "ante_satashagrewu1":[],
+        
         "ayselechegnm1":[],
-        "kehulu_belay_newu1":[],
-        "endatresagn1":[],
+        
+        "kehulu_belay_newu1":["1flmrHPEUstGfCgn4pQRySXpKH6V2d7Ep"],
+        
+        "endatresagn1":["1y81HzOVp-dtUAV1tp_hb02nPX0aA8327"],
+        
         "egnagn1":[],
+        
         "kefylal1":[],
+        
         "zemen_yezema1":[],
+        
         "znarh1":[],
-        "yetnsaewu_geta1":[],
+        
+        "yetnsaewu_geta1":["1SU8yejNzdmUhDzfBEMg6ogkX-htIPP6b"],
+        
         "yhe_ngus1":[],
+        
         "yekidus_dawit1":[]
 
   }
