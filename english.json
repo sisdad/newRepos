@@ -1,4 +1,15 @@
-{ "fikirte_feleke":{
+{"fikir_neh":{
+    "kewedaj_abiliteh1":["kewedaj abiliteh"],
+    "ketilik_fikru1":["ketilik fikru"],
+    "enzemr1":["enzemr"],
+    "egeremalewu1":["egeremalewu"],
+    "besemayawi1":["besemayawi"],
+    "bertolinal_wengelu1":["bertolinal wengelu"],
+    "bamihiretu1":["bamihiretu"],
+    "bandit_tesfa1":["bandit tesfa"],
+    "askedmo1":["askedmo"]
+
+}, "fikirte_feleke":{
     "beabatu_yetewedede1":["beabatu yetewedede"],
     "libe_gn_nektual1":["libe gin nektual"],
     "iyesus1":["Iyesus"],
