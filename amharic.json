@@ -399,6 +399,22 @@
     "silantemaGeta1":["ስላንተማ ጌታ"],
     "IyesusSmikeKidus1":["ኢየሱስ ስምከ ቅዱስ"],
     "yeselamieKalkidan1":["የሰላሜ ቃልኪዳን"]
-  }
+  },
+  
+"hana_merawi":{
+    "bemeskel_amteh1":["በመስቀል አምጠህ"],
+    "shomkut_belibe1":["ሾምኩት በልቤ"],
+    "alamayen1":["አላማዬን"],
+    "ayewh_keraniyo1":["አየውህ ቀራንዮ"],
+    "nitsit_honeshal1":["ንጽት ሆነሻል"],
+    "belibe_wegeb1":["በልቤ ወገብ"],
+    "awon_amen1":["አዎን አሜን ነዉ"],
+    "yamral_wub_newu1":["ያምራል ውብ ነዉ"],
+    "kidus_kidus1":["ቅዱስ ቅዱስ"],
+    "simih_melkam1":["ስምህ መልካም"],
+    "semay_eyayewu1":["ሰማይ እያየዉ"],
+    "weyne_neh1":["ወይኔ ነህ"]
+
+}
       
        }
