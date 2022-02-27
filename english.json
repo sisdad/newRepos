@@ -1,5 +1,16 @@
-{"bekiristos":{
-    "fikir_neh":["fikir neh"],
+{"zelalem_yinges":{
+    "mamesgen1":["mamesgen"],
+    "haleluya1":["haleluya"],
+    "bizumrko1":["bizumrko"],
+    "yeEgziabherlig1":["ye Egziabher lij"],
+    "amenyezelaleme1":["amen yezelaleme"],
+    "yezelalemhiwote1":["yezelalem hiwote"],
+    "fitihnlemayet1":["fitihn lemayet"],
+    "lemnallhmgeta1":["lemn allhm Geta"],
+    "tiliklikekahn1":["tilik likekahn"],
+    "yalehunetaenwaded1":["yalehuneta enwaded"]},
+"bekiristos":{
+    "fikir_neh1":["fikir neh"],
     "kewedaj_abiliteh1":["kewedaj abiliteh"],
     "ketilik_fikru1":["ketilik fikru"],
     "enzemr1":["enzemr"],
@@ -8,7 +19,9 @@
     "bertolinal_wengelu1":["bertolinal wengelu"],
     "bamihiretu1":["bamihiretu"],
     "bandit_tesfa1":["bandit tesfa"],
-    "askedmo1":["askedmo"]
+    "askedmo1":["askedmo"],
+    "dinenalbetsega1":["dinenal betsega"],
+    "bekiristos_tetrefrfual1":["bekiristos tetrefrfual"]
 
 }, "fikirte_feleke":{
     "beabatu_yetewedede1":["beabatu yetewedede"],
@@ -174,7 +187,10 @@
     "ersun_smut1":["ersun smut"],
     "tsadk_newu1":["tsadk newu"],
     "fikir_yelelewu1":["fikir yelelewu"],
-    "endnitera1":["endnitera"]
+    "endnitera1":["endnitera"],
+    "belaybesemay1":["belay besemay"],
+    "andnen_beiyesus1":["andnen beiyesus"],
+    "keAbzend1":["keAbzend yeneberewu"]
 },
 "zemen_teseten":{"eyedegefe1":["eyedegefe"],
     "egziabher1":["egziabher"],
@@ -357,7 +373,9 @@
          "bichegnineten1":["Bichegniten" ],
          "keto_endemin1":[ "Keto edemin blo" ],
          "kef_bel1":["Kef bet"],
-         "wede_bete1":["Wede bete"]
+         "wede_bete1":["Wede bete"],
+         "hatiate_bzu_newu1":["hatiate bzu newu"],
+         "ashagrehegnal1":["ashagrehegnal"]
   
   },
        
@@ -370,7 +388,14 @@
          "albasxrosen1":[  "Alibastirosen" ],
          "matsnagnaye1":[  "Metsinagnaye" ],
          "amnewalna1":[  "Amnewalina" ],
-         "kalemenor1":[  "Kalemenor"]
+         "kalemenor1":[  "Kalemenor"],
+         "bemadanu2":["bemadanu"],
+         "bemedafih2":["bemedafih"],
+         "wala2":["wala"],
+         "bereneh2":["bere neh"],
+         "kezihyebelete2":["kezih yebelete"],
+         "getaketamene2":["geta ketamene"],
+         "yemiyayegnn2":["yemiyayegnn"]
   
   },
      "ezra_hmikael":{  
