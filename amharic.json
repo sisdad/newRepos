@@ -1,5 +1,16 @@
-{ "bekiristos":{
-    "fikir_neh":["ፍቅር ነህ"],
+{ "zelalem_yinges":{
+    "mamesgen1":["ማመስገን"],
+    "haleluya1":["ሃሌ ሃሌሉያ"],
+    "bizumrko1":["ብዙ ምርኮ"],
+    "yeEgziabherlig1":["የእግዚአብሄር ልጅ"],
+    "amenyezelaleme1":["አሜን የዘላለሜ"],
+    "yezelalemhiwote1":["የዘላለም ህይወት"],
+    "fitihnlemayet1":["ፊትህን ለማየት"],
+    "lemnallhmgeta1":["ለምን አልልህም ጌታ"],
+    "tiliklikekahn1":["ትልቅ ሊቀካህናት"],
+    "yalehunetaenwaded1":["ያለሁኔታ እንዋደድ"]},
+"bekiristos":{
+    "fikir_neh1":["ፍቅር ነህ"],
     "kewedaj_abiliteh1":["ከወዳጅ አብልጠህ"],
     "ketilik_fikru1":["ከትልቅ ፍቅሩ"],
     "enzemr1":["እንዘምር"],
@@ -8,7 +19,9 @@
     "bertolinal_wengelu1":["በርታልናል ወንጌሉ"],
     "bamihiretu1":["በምህረቱ"],
     "bandit_tesfa1":["ብአንዲት ተስፋ"],
-    "askedmo1":["አስቀድሞ"]
+    "askedmo1":["አስቀድሞ"],
+    "dinenalbetsega1":["ድነናል በጸ"],
+    "bekiristos_tetrefrfual1":["በክርስቶስ ተትረፍርፏል"]
 
 },
 "fikirte_feleke":{
@@ -169,13 +182,16 @@
 },
 "twelveZemaryan":{"liju_yalewu1":["ልጁ ያለዉ"],
     "dingl_maryam1":["ድንግል ማርያም"],
-    "begna_zend1":["በኛ ጊዜ"],
+    "begna_zend1":["በኛ ዘንድ"],
     "berisu_zend1":["በርሱ ዘንድ"],
     "bekristos1":["በክርስቶስ"],
     "ersun_smut1":["እርሱን ስሙት"],
     "tsadk_newu1":["ጻድቅ ነዉ"],
     "fikir_yelelewu1":["ፍቅር የሌለዉ"],
-    "endnitera1":["እንድንጠራ"]
+    "endnitera1":["እንድንጠራ"],
+    "belaybesemay1":["በላይ በሰማይ"],
+    "andnen_beiyesus1":["አንድ ነን በኢየሱስ"],
+    "keAbzend1":["ከአብ ዘንድ የነበረዉ"]
 },
 "zemen_teseten":{"eyedegefe1":["እየደገፈ"],
     "egziabher1":["እግዚአብሄር"],
@@ -357,7 +373,9 @@
          "bichegnineten1":["ብቸኝነቴን" ],
          "keto_endemin1":[ "ከቶ እንደምን ብሎ" ],
          "kef_bel1":["ከፍ በል"],
-         "wede_bete1":["ወደ ቤቴ"]
+         "wede_bete1":["ወደ ቤቴ"],
+         "hatiate_bzu_newu1":["ሃጢያቴ ብዙ ነዉ"],
+         "ashagrehegnal1":["አሻግረኸኛል"]
   
   },
        
@@ -370,7 +388,14 @@
          "albasxrosen1":[  "አልባጥሮሴን" ],
          "matsnagnaye1":[  "መጽናኛዬ" ],
          "amnewalna1":[  "አምለዋልና" ],
-         "kalemenor1":[  "ካለመኖር"]
+         "kalemenor1":[  "ካለመኖር"],
+         "bemadanu2":["በማዳኑ"],
+         "bemedafih2":["በመዳፍህ"],
+         "wala2":["ዋላ"],
+         "bereneh2":["በሬ ነህ"],
+         "kezihyebelete2":["ከዚህ የበለጠ"],
+         "getaketamene2":["ጌታ ከታመነ"],
+         "yemiyayegnn2":["የሚያየኝን"]
   
   },
      "ezra_hmikael":{  
