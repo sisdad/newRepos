@@ -140,11 +140,22 @@
     "kindihn_etef1":["kindihn etef"]
 
 },
-"tirehas_GebreEgziabher":{"tamagn_mskr1":["tamagn mskr"],
-    "destegna_negn1":["destegna negn"],
-    "yezelalem1":["yezelalem"],
-    "mndinewu1":["mndinewu"],
-    "wedehuala_allm1":["wedehuala allm"],
+"tirehas_GebreEgziabher":{
+    "shbsheba2":["shbsheba"],
+    "mndinewu2":["mndinewu melse"],
+    "destegna_negn2":["destegna negn"],
+    "enatyehonech2":["enatyehonech"],
+    "smhsmen2":["smh smen"],
+    "yezelalem2":["yezelalem"],
+    "mengedeneh2":["mengede neh"],
+    "ssheshewu2":["ssheshewu"],
+    "tamagn_mskr2":["tamagn mskr"],
+    "wedehuala_allm2":["wedehuala allm"],
+    "stegna_yemtnafkegn2":["stegna yemtnafkegn"],
+    "bemedanitua2":["bemedanitua"],
+    "smh_yikedes2":["smh yikedes"],
+    "yezelalmkine2":["yezelalm kine"],
+
     "amnihalewu1":["amnihalewu"],
     "ye_abreham1":["ye abreham"],
     "re_ibraysx1":["be ibraysx"],
@@ -476,7 +487,20 @@
           "befikr_yetaredklgn1":["befikr yetaredklgn"],
           "nebiy_newu_blewgn1":["nebiy newu blewgn"],
           "alchilm_zm_malet1":["alchilm zm malet"]
-          }
+          },
+    "kefyalewu_tufa":{"kine_alegn1":["kine alegn"],
+        "awaj1":["awaj"],
+        "kuankuaye_neh1":["kuankuay neh"],
+        "tabotachn1":["tabotachn"],
+        "enakebrhalen1":["enakebrhalen"],
+        "kefkalut_belay1":["kefkalut belay"],
+        "mirko_beza1":["mirko beza"],
+        "egziabher_tilikneh1":["Egziabher tilikneh"],
+        "liben_mrawu1":["liben mrawu"],
+        "kemot_yetenesawu1":["kemot yetenesawu"],
+        "yetaredewu_beg1":["yetaredewu beg"]
+            
+             }
     
       
        }
