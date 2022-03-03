@@ -141,11 +141,21 @@
     "kindihn_etef1":["ክንድህን እጠፍ"]
 
 },
-"tirehas_GebreEgziabher":{"tamagn_mskr1":["ታማኝ ምስክር"],
-    "destegna_negn1":["ደስተኛ ነኝ"],
-    "yezelalem1":["የዘላለም"],
-    "mndinewu1":["ምንድነዉ"],
-    "wedehuala_allm1":["ወደኋላ አልልም"],
+"tirehas_GebreEgziabher":{
+    "shbsheba2":["ሽብሸባ ድል ለነሳዉ"],
+    "mndinewu2":["ምንድነዉ መልሴ"],
+    "destegna_negn2":["ደስተኛ ነኝ"],
+    "enatyehonech2":["እናት የሆነች"],
+    "smhsmen2":["ስምህ ስሜን"],
+    "yezelalem2":["የዘላለም ዓላማህ"],
+    "mengedeneh2":["መንገዴ ነህ"],
+    "ssheshewu2":["ስሸሽዉ እየተከተለ"],
+    "tamagn_mskr2":["ታማኝ ምስክር"],
+    "wedehuala_allm2":["ወደኋላ አልልም"],
+    "stegna_yemtnafkegn2":["ስተኛ የምትናፍከኝ"],
+    "bemedanitua2":["በመድሃኒቷ"],
+    "smh_yikedes2":["ስምህ ይቀደስ"],
+    "yezelalmkine2":["የዘላለም ቅኔ"],
     "amnihalewu1":["አምንሃለዉ"],
     "ye_abreham1":["የአብርሃም"],
     "re_ibraysx1":["በእብራይስጥ"],
@@ -479,7 +489,20 @@
         "befikr_yetaredklgn1":["በፍቅር የታረድክልኝ"],
         "nebiy_newu_blewgn1":["ነብይ ነዉ ብለውኝ"],
         "alchilm_zm_malet1":["አልችልም "]
-        }
+        },
+ "kefyalewu_tufa":{"kine_alegn1":["ቅኔ አለኝ"],
+        "awaj1":["አዋጅ"],
+        "kuankuaye_neh1":["ቋንቋዬ ነህ"],
+        "tabotachn1":["ታቦታችን"],
+        "enakebrhalen1":["እናከብርሃለን"],
+        "kefkalut_belay1":["ከፍ ካሉት በላይ"],
+        "mirko_beza1":["ምርኮ በዛ"],
+        "egziabher_tilikneh1":["እግዚአብሄር ትልቅ ነህ"],
+        "liben_mrawu1":["ልቤን ምራዉ"],
+        "kemot_yetenesawu1":["ከሞት የተነሳዉ"],
+        "yetaredewu_beg1":["የታረደዉ በግ"]
+    }
+   
   
       
        }
